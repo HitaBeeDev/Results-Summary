@@ -354,15 +354,12 @@ body {
     background-color: var(--color1);
     color: var(--color4);
     border: none;
-  }
-
-  .summary__btn:hover {
-    background-color: var(--color3);
-    transition: all 0.5s;
-    color: var(--color1);
+    margin-bottom: 3rem;
   }
 
   .attribution {
-    font-size: 14px;
+    font-size: 0.6rem;
   }
 }
+
+
