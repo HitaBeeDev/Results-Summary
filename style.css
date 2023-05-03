@@ -307,6 +307,7 @@ body {
     gap: 0.8rem;
     width: 100%;
     margin-bottom: 1.5rem;
+    margin-left: 0rem;
   }
 
   .contents__category {
